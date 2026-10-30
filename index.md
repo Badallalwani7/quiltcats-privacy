@@ -67,8 +67,15 @@ Parents can ask us what purchase data RevenueCat holds for their child's device,
 
 - Watching an ad for hints is always optional.
 - "Remove ads" stops the ads between levels.
-- **Settings → Reset progress**, or uninstalling the game, deletes the data stored on your device.
-- To have purchase records deleted from RevenueCat, email us with the approximate purchase date or the Google Play order number.
+- You can delete your data at any time, as described below.
+
+## Deleting your data
+
+**Data on your device:** use **Settings → Reset progress** in Quilt Cats, or uninstall the game. This deletes your progress, hints, settings and saved puzzle immediately.
+
+**Purchase records held by RevenueCat:** to have them deleted, email **badallalwani9@gmail.com** with the subject "Quilt Cats data deletion" and include the Google Play order number (it starts with "GPA." and is in your Google Play purchase receipt). Within 30 days we delete the matching customer record from RevenueCat: its purchase history and the random ID the app created. After that, "Restore purchases" can no longer find a "Remove ads" purchase made before the deletion.
+
+**What is kept:** Google keeps its own records of Google Play orders and payments under the [Google Privacy Policy](https://policies.google.com/privacy), and we can't delete those. Data that Google AdMob receives isn't linked to your name or account; Google handles it under its own policies.
 
 ## Changes to this policy
 
